@@ -15,5 +15,5 @@
     width: 100%;
     height: auto; /* Mantiene proporciones del logo */
     border-radius: 10px; /* Redondea las esquinas del logo */
-    object-fit: contain; /* Ajusta la imagen dentro del header */
+    object-fit: scale-down;/* Ajusta la imagen dentro del header */
 }
