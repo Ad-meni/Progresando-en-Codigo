@@ -1,0 +1,12 @@
+Flujo básico de Git:
+- Moverte al directorio de tu proyecto:
+cd ruta_del_directorio
+
+- Agregar los cambios al área de staging:
+git add .
+
+- Realizar el commit:
+git commit -m "Mensaje descriptivo del cambio"
+
+- Enviar los cambios al repositorio remoto:
+git push
